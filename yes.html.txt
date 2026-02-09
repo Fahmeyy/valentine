@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>She Said Yes ❤️</title>
+  <style>
+    body {
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+    h1 {
+      color: #d6336c;
+    }
+  </style>
+</head>
+<body>
+
+<div>
+  <h1>You just made my heart smile 💖</h1>
+  <p>This Valentine is ours ✨</p>
+</div>
+
+</body>
+</html>
